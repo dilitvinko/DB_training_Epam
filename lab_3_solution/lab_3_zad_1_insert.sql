@@ -1,0 +1,14 @@
+INSERT INTO detail(name,code,price) values('kolodki', '12313', '40');
+INSERT INTO detail(name,code,price) values('diski', '12314', '120');
+INSERT INTO detail(name,code,price) values('filtr', '12315', '30');
+INSERT INTO detail(name,code,price) values('sceplenie', '12316', '300');
+INSERT INTO detail(name,code,price) values('maslo', '12317', '20');
+INSERT INTO detail(name,code,price) values('prokladka', '12318', '10');
+INSERT INTO detail(name,code,price) values('podveska', '12319', '700');
+INSERT INTO detail(name,code,price) values('porshen', '12340', '120');
+INSERT INTO detail(name,code,price) values('korobka peredach', '12341', '250');
+INSERT INTO detail(name,code,price) values('nakladka', '12342', '20');
+INSERT INTO detail(name,code,price) values('rele', '12343', '40');
+INSERT INTO detail(name,code,price) values('parktronik', '12344', '200');
+INSERT INTO detail(name,code,price) values('stypica', '12345', '70');
+INSERT INTO detail(name,code,price) values('nasos', '12346', '80');
